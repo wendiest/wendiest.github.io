@@ -25,10 +25,10 @@ body{
 h1{
 	
 	text-align: center;
-	padding-bottom: 0%;
+	padding-bottom: 20%;
 	font-family: "arbeka";
 	color:#2a2a2a;
-	font-size:18px;
+	font-size:20px;
 }
 
 #item1, #item2, #item3, #item4{
